@@ -1,4 +1,4 @@
-type Movie{
+type Movie {
     id: Int!
     title: String!
     rating: Float
