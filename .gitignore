@@ -1,3 +1,5 @@
 node_modules/**/*
 node_modules/
 yarn-error.log*
+*.lock
+package-lock.json
